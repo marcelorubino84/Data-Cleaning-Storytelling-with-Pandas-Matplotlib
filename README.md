@@ -19,8 +19,12 @@
 * How could data collection be improved
 
 # Code and resources:
+
 **Python Version:** 3.8
-***Packages:** pandas, seaborn, matplotlib
+
+**Packages:** pandas, seaborn, matplotlib
+
 **Enviroment:** google colab
+
 **Data:** Obtained from [WBS coding school](https://www.wbscodingschool.com/)
 
